@@ -20,14 +20,22 @@ It consists of 2 GET endpoints
 
 ## Setting up the frontend
 In the project directory, you run the frontend local server:
-### `yarn add axios`
-### `yarn install`
-### `yarn start`
+```sh
+# install dependencies
+yarn add axios
+yarn install
+
+# Run the local server
+yarn start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-In the Send Instructions field, paste this: x^xv
-In the Get Billboard Details field, paste this: 5aba7bffddc4ecbbb81e7fad
+
+```sh
+# In the Send Instructions field, paste this: x^xv
+# In the Get Billboard Details field, paste this: 5aba7bffddc4ecbbb81e7fad
+```
 
 ## Improvements and Next Steps
 
