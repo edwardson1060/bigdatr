@@ -34,5 +34,4 @@ In the Get Billboard Details field, paste this: 5aba7bffddc4ecbbb81e7fad
 1. Error Handling: Improve user feedback for API request errors.
 2. Loading State: Add a loading spinner or indication while fetching data.
 3. Styling: Use a CSS framework or library like Bootstrap or Material-UI for better UI design.
-4. Testing: Implement unit tests for the components using libraries like Jest or React Testing Library.
-5. Responsiveness: Ensure the app works well with different screens and devices.
+4. Responsiveness: Ensure the app works well with different screens and devices.
